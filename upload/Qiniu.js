@@ -2,8 +2,8 @@ var qiniu = require('qiniu');
 var config = new qiniu.conf.Config();
 var formUploader = new qiniu.form_up.FormUploader(config);
 var putExtra = new qiniu.form_up.PutExtra();
-var uploadToken = 'MEmEB-AMK9gclYzCKcCt_f3iuDg0PDruHcHzvYrR:0GuxclNCOLdzzgqTfkOJlO-UCNI=:eyJzY29wZSI6InB1bHNlLWxpdmUtdGVzdCIsImRlYWRsaW5lIjoxODU1NTIzOTExfQ==';
-var schemaUrl = 'https://cdn.soundlinks.net/';
+var uploadToken = '-----YOURSELF TOKEN-----';
+var schemaUrl = '-----YOURSELF CDN-----';
 
 // 文件上传
 function upload(filename, path, callback) {
