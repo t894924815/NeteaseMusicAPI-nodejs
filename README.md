@@ -1,5 +1,9 @@
 # NeteaseMusicAPI-nodejs
 
+## 使用方法
+*npm install
+*運行www.js
+
 frequently used netease music apis
 * 已有api
  * normal query全部查詢
