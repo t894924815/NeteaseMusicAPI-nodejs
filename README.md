@@ -1,9 +1,4 @@
 # NeteaseMusicAPI-nodejs
-
-## 使用方法
-npm install\n
-運行www.js
-
 frequently used netease music apis
 * 已有api
  * normal query全部查詢
@@ -15,3 +10,9 @@ frequently used netease music apis
  * play list id 根據歌單id查詢歌單信息
 
 p.s 網易云音樂參數加密方法在netease_api/tools.js,從core.js中提取
+
+# 使用方法
+* npm install
+* 運行www.js
+
+
